@@ -5,3 +5,6 @@ core.*
 vgcore.*
 *.o
 .DS_Store
+
+# macOS AppleDouble metadata (created when tarring files with xattrs)
+._*
